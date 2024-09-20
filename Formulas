@@ -1,0 +1,23 @@
+1:: TRIANGLE :
+    Area of triangle = 1/2 × base × height
+    Perimeter of a triangle , P = (a + b + c), where 'a', 'b', and 'c' are the three sides of the triangle.
+2:: CIRCLE :
+    The diameter of a Circle D = 2 × r
+    Circumference of a Circle C = 2 × π × r
+    Area of a Circle   A = π × r2
+
+    square
+    rectangle
+    
+     r = radius of the circle
+    d = diameter of the circle
+    c = circumference of the circle
+
+3:: CUBE :
+      Total Surface Area = 6(side)2	Total Surface area = 2 (length × breadth + breadth × height + length × height)
+      Lateral Surface Area = 4 (Side)2	Lateral Surface area = 2 height(length + breadth)
+      Volume of cube = (Side)3	Volume of the cuboid = (length × breadth × height)
+      Diagonal of a cube = √3(side)	Diagonal of the cuboid =√( length2 + breadth2 +height2)
+      Perimeter of cube = 12 × side	Perimeter of cuboid = 4 (length + breadth + height)
+    
+    
